@@ -1,0 +1,6 @@
+export { default as Header } from "./header"
+export { default as MainContent } from "./main-content"
+export { default as Footer } from "./footer"
+export { default as TasksSummary } from "./tasks-summary"
+export { default as TaskItem } from "./task-item"
+export { default as TasksList } from "./tasks-list"
